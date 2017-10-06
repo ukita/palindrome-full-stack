@@ -1,0 +1,12 @@
+{
+  "name": "palindrome-full-stack",
+  "version": "0.1.0",
+  "description": "Shaw and Partners Challenge",
+  "main": "index.js",
+  "author": "Bruno Ukita <brunoukita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
